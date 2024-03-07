@@ -63,6 +63,11 @@ if ($updates.Count -ne 0) {
 else {
     Write-Output "There are currently no updates available"
     Write-Output "-----------------------------"
+    Write-Output ""
+    Write-Output ""
+    Write-Output ""
+    Write-Output ""
+    Write-Output ""
 }
 
 
